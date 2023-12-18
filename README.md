@@ -3,9 +3,9 @@
 
 
 ## About This Project
-PKM-KC is a vehicle for students to realize constructive ideas based on karsa and reason even though they have not yet reached the stage of providing perfect functional value and / or direct benefits to other parties. In order to participate in the PKM-KC 2023 program, we made an innovation of smart glasses called Sound-Degla. 
+PKM-KC is a vehicle for students to realize constructive ideas based on karsa and reason even though they have not yet reached the stage of providing perfect functional value and / or direct benefits to other parties. In order to participate in the PKM-KC 2023 program, we made an innovation of smart glasses called [Sound-Degla](https://www.instagram.com/sound.degla/).
 
-Sound-Degla is a sophisticated device that uses artificial intelligence to help detect and translate sign language. Sound-Degla smart glasses emerge as a leading innovation in improving deaf people's communication through Bisindo sign language detection.
+[Sound-Degla](https://www.instagram.com/sound.degla/) is a sophisticated device that uses artificial intelligence to help detect and translate sign language. Sound-Degla smart glasses emerge as a leading innovation in improving deaf people's communication through Bisindo sign language detection.
 
 By adopting Convolutional Neural Network (CNN) and integration with Raspberry Pi 4, the product manages to achieve a satisfactory level of accuracy, promising an effective communication alternative for users. In a practical context, these glasses not only enhance the independence of deaf people but also contribute to the development of assistive technology at large. The potential for further development is wide open, with opportunities to improve the sign language model and expand the functionality of Sound-Degla smart glasses.
 
@@ -34,7 +34,7 @@ In this section, we will explain several flows that describe the steps in buildi
 ## Product Outcome
 The product visualization of Sound-Degla glasses provides a direct view of their physical design and functionality. Through structure diagrams, interface mockups and depictions of daily use, users can easily understand how these glasses interact in a virtual environment. By including images of visual indicators, color variations, and aesthetic design, product explanations become clearer and support user understanding. The following are the product results of this project.
 
-![Sound-Degla glasses](/Images/alur-kerja-sistem.jpg)
+![Sound-Degla glasses](/Images/hasil-produk.jpg)
 
 For the demo video, please refer to the following [link](https://www.instagram.com/p/CzpzNihv38y/?igshid=MzRlODBiNWFlZA==).
 
